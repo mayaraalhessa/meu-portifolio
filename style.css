@@ -1,0 +1,21 @@
+body{
+    width:90vw;
+    margin: auto;
+    font-size: 20px;
+}
+section{
+    background-color: aliceblue;
+    padding: 40px;
+}
+header{ 
+    background-color: rgb(117, 231, 239);}
+
+a { margin-left: 80px; 
+color: black;}
+
+main { background-color: antiquewhite;
+    font-size: larger;
+}
+img { width: 30vw;}
+
+h1 { text-align: center;}
