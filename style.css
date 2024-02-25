@@ -1,21 +1,45 @@
-body{
+body
+    {
     width:90vw;
     margin: auto;
     font-size: 20px;
-}
-section{
+    }
+section
+    {
     background-color: aliceblue;
     padding: 40px;
-}
+    }
 header{ 
-    background-color: rgb(117, 231, 239);}
+    background-color: rgb(117, 231, 239);
+    }
+a
+     { 
+    margin-left: 7.5vw; 
+color: black;
+    }
 
-a { margin-left: 80px; 
-color: black;}
-
-main { background-color: antiquewhite;
+main { 
+    background-color: antiquewhite;
     font-size: larger;
-}
-img { width: 30vw;}
+    padding: 20px;
+    }
 
-h1 { text-align: center;}
+img { 
+    width: 30vw;
+    margin-top: 0.8vw;
+    }   
+
+h1 {
+     text-align: center;
+    }
+
+div.parágrafodireito 
+    { float: left; 
+    margin-left: 30vw;
+    margin-right: 0.9vw;
+    text-align: justify; 
+    }
+    hr
+     {
+         color: black;
+    }
